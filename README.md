@@ -1,3 +1,7 @@
+[![Build status](https://github.com/forketyfork/camel-forkjoin-poc/actions/workflows/build.yml/badge.svg)](https://github.com/forketyfork/camel-forkjoin-poc/actions/workflows/build.yml)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Java](https://img.shields.io/badge/language-Java-orange.svg)](https://www.oracle.com/java/)
+
 ## Description
 This is a PoC of fork/join functionality across microservices based on Camel.
 The `caller` service sends a message to the three instances of a `callee` service to perform some work.
