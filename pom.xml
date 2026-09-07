@@ -20,7 +20,7 @@
     <lombok.version>1.18.46</lombok.version>
     <camel.version>2.25.4</camel.version>
 
-    <maven-compiler-plugin.version>3.15.0</maven-compiler-plugin.version>
+    <maven-compiler-plugin.version>3.16.0</maven-compiler-plugin.version>
 
   </properties>
 
